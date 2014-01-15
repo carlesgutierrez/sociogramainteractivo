@@ -1,4 +1,4 @@
-sociogramainteractivo
+#sociogramainteractivo
 =====================
 2014
 
@@ -39,7 +39,7 @@ Kinect camera ( 1, 2, or 3)
 
 Check in siTrackingManager.h : 
 
-#define NUMKINECTS 1 //until 3 cameras
+define NUMKINECTS 1 //set until 3 cameras maximum
 
 or
 
