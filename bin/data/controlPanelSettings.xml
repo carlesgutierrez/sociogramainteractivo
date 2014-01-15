@@ -1,0 +1,102 @@
+<nearThreshold>
+    <val_0>255</val_0>
+</nearThreshold>
+<farThreshold>
+    <val_0>215.333</val_0>
+</farThreshold>
+<bThreshWithOpenCV>
+    <val_0>1</val_0>
+</bThreshWithOpenCV>
+<bRecord>
+    <val_0>0</val_0>
+</bRecord>
+<bPlayback>
+    <val_0>0</val_0>
+</bPlayback>
+<angletilt>
+    <val_0>0</val_0>
+</angletilt>
+<normalizePercentage>
+    <val_0>1</val_0>
+</normalizePercentage>
+<giveLowestPossibleIDs>
+    <val_0>0</val_0>
+</giveLowestPossibleIDs>
+<maxUndetectedTime>
+    <val_0>502.222</val_0>
+</maxUndetectedTime>
+<minDetectedTime>
+    <val_0>33.3333</val_0>
+</minDetectedTime>
+<debugDrawCandidates>
+    <val_0>0</val_0>
+</debugDrawCandidates>
+<maxMergeDis>
+    <val_0>88.0889</val_0>
+</maxMergeDis>
+<circleresolution>
+    <val_0>222.544</val_0>
+</circleresolution>
+<circlesize>
+    <val_0>140.7</val_0>
+</circlesize>
+<factorgrosor>
+    <val_0>504.167</val_0>
+</factorgrosor>
+<renderDebug1Draw>
+    <val_0>1</val_0>
+</renderDebug1Draw>
+<renderwindowdraw>
+    <val_0>1</val_0>
+</renderwindowdraw>
+<circleWidth>
+    <val_0>33.4556</val_0>
+</circleWidth>
+<renderExtrudedCam>
+    <val_0>0</val_0>
+</renderExtrudedCam>
+<camThreshold>
+    <val_0>113.333</val_0>
+</camThreshold>
+<renderWarpRect>
+    <val_0>0</val_0>
+</renderWarpRect>
+<warpingcorners>
+    <val_0>1</val_0>
+</warpingcorners>
+<modocontacto>
+    <val_0>1</val_0>
+</modocontacto>
+<savewarpingcorners>
+    <val_0>0</val_0>
+</savewarpingcorners>
+<InvertHorizontal>
+    <val_0>0</val_0>
+</InvertHorizontal>
+<rendervisualizationdraw>
+    <val_0>1</val_0>
+</rendervisualizationdraw>
+<rendertrackingdraw>
+    <val_0>1</val_0>
+</rendertrackingdraw>
+<rendergui>
+    <val_0>1</val_0>
+</rendergui>
+<rendermouse>
+    <val_0>1</val_0>
+</rendermouse>
+<hidegui>
+    <val_0>1</val_0>
+</hidegui>
+<hidemouse>
+    <val_0>1</val_0>
+</hidemouse>
+<blurHeavily>
+    <val_0>1</val_0>
+</blurHeavily>
+<blurGaussian>
+    <val_0>0</val_0>
+</blurGaussian>
+<blur>
+    <val_0>0</val_0>
+</blur>

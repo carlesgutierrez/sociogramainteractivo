@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxKinect
+ofxControlPanel
+ofxGLWarper
+ofxXmlSettings
+ofxBlobsManager
+ofxPatterns
